@@ -1,0 +1,7 @@
+# ===================================================================
+# solstice-docs requirements file
+# ===================================================================
+mkdocs
+mkdocs-material
+pathlib
+mkdocs-markdownextradata-plugin

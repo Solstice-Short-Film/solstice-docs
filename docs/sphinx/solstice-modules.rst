@@ -1,4 +1,4 @@
-artellapipe
+solstice
 ===================
 
 .. toctree::

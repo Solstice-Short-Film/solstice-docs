@@ -5,3 +5,9 @@ mkdocs
 mkdocs-material
 pathlib
 mkdocs-markdownextradata-plugin
+sphinx
+sphinx_rtd_theme
+artellapipe-utils
+artellapipe-gui
+artellapipe-core
+artellapipe-launcher

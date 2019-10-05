@@ -2,12 +2,22 @@ language: python
 install:
 - pip install -r requirements.txt
 script:
-- mkdocs build --config-file=docs/mkdocs.yml --verbose --clean
-- mv docs/site .
+  - pip install -r requirements.txt
+  - mkdocs build --config-file=docs/mkdocs/mkdocs.yml --verbose --clean
+  - mv docs/mkdocs/site .
+  - mkdir solstice_repos
+  - cd solstice_repos
+  - git clone https://github.com/Solstice-Short-Film/solstice-core.git
+  - cd ..
+  - sphinx-apidoc -f -e -o docs/sphinx solstice_repos/solstice-core/solstice --tocfile solstice-core-modules
+  - sphinx-build -M html ./docs/sphinx ./
+  - cd html && touch .nojekyll && cd ../
+  - cd site && touch .nojekyll && cd ../
+  - mv site html
 deploy:
   - provider: pages
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
-    local_dir: site
+    local_dir: html
     on:
       branch: master

@@ -1,13 +1,11 @@
-### **Instructions**
-
 !!! info
     * If you have Antivirus software, maybe you will need to add Artella to your trusted sites when installing the Artella App.
     * Artella App works best on **Chrome** and **Firefox**.
-    * Artella App does not work on mobile, tables, Linux or Chromebooks at this time.
-    
-#### **Installing Artella for Windows**
+    * Artella App does not work on mobile, tablets, Linux or Chromebooks at this time.
 
-???+ example "Windows"
+    
+???- example "Windows"
+
     1. **Download the Artella App installer**
     
         * Visit [www.artella.com](https://www.artella.com/)
@@ -67,10 +65,10 @@
         
         > {{ project.name }} Files Section
         ![Artella App Install 5](../../img/install_artella_5.png?style=centerme)
-
-#### **Installing Artella for MAC**
+        
 
 ??? example "MacOS"
+    
     1. **Download the Artella App installer**
     
         * Visit [www.artella.com](https://www.artella.com/)

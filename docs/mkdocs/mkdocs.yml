@@ -46,6 +46,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.emoji
   - pymdownx.tasklist
+  - markdown_include.include:
+      base_path: docs
 plugins:
   - markdownextradata: {}
 extra:

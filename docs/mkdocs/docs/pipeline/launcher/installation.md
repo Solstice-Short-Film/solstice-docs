@@ -1,5 +1,3 @@
-### **Instructions**
-
 ???+ example "Windows"
 
     !!! error

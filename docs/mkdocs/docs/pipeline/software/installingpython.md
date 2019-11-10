@@ -1,4 +1,4 @@
-???+ example "Windows"
+???- example "Windows"
     First of all you need to download Python installer from the official **[Python web page](https://www.python.org/downloads/)**. 
     
     You can download Python 2.7.16 installer for Windows 64-bist in the following link: **[Python 2.7.16 Windows](https://www.python.org/ftp/python/2.7.16/python-2.7.16.amd64.msi)**

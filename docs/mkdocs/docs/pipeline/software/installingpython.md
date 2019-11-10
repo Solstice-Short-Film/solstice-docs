@@ -1,7 +1,7 @@
 ???- example "Windows"
-    First of all you need to download Python installer from the official **[Python web page](https://www.python.org/downloads/)**. 
+    First of all you need to download Python installer from the official Python web page. 
     
-    You can download Python 2.7.16 installer for Windows 64-bist in the following link: **[Python 2.7.16 Windows](https://www.python.org/ftp/python/2.7.16/python-2.7.16.amd64.msi)**
+    You can download Python 2.7.16 installer for Windows 64-bit in the following link: **[Python 2.7.16 Windows](https://www.python.org/ftp/python/2.7.16/python-2.7.16.amd64.msi)**
 
      > Python 2.7.16 download webpage
     ![Python 2.7.16](../../img/python_install_1.png?style=centerme)
@@ -33,8 +33,6 @@
     !!! tip
         If we do not do this, Windows wont' be able to search where Python is installed and you will need to add
         Python executable to Windows Path manually
-        
-       
         
     ***
     
@@ -70,11 +68,93 @@
         ![Python](../../img/python_install_11.png?style=centerme)
         
         
+???+ example "MacOS"
+    You can download Python 2.7.16 installer for macOS 64-bit in the following link: **[Python 2.7.16 Windows](https://www.python.org/ftp/python/2.7.16/python-2.7.16-macosx10.9.pkg)**
+
+     > Python 2.7.16 download webpage
+    ![Python 2.7.16](../../img/python_install_1.png?style=centerme)
+
+    Double click on the Python installer package, and the Python installation process will start.
+    
+    !!! info
         
-    
-    
-    
+        When you launch the package, if the following message appears:
+        
+        >
+        ![Python](../../img/python_install_12.png?style=centerme)
+        
+        You will need to launch the package holding the **CONTROL** key and in the contextual menu that appears you will need to select the **Open** option
+           
+        > Press Open to install Python 2.7.16
+        ![Python](../../img/python_install_13.png?style=centerme)
+           
+        ***
+        
+        > Press **Continue** in the window that will appear
+        ![Python](../../img/python_install_14.png?style=centerme)
+        
+        ***
+        
+        > Press **Continue** again
+        ![Python](../../img/python_install_15.png?style=centerme)
+        
+        ***
+        
+        > Press **Continue** again
+        ![Python](../../img/python_install_16.png?style=centerme)
+        
+        ***
+        
+        > Press **Agree** to accept the license
+        ![Python](../../img/python_install_17.png?style=centerme)
+        
+        ***
+        
+        > Press **Continue**
+        ![Python](../../img/python_install_18.png?style=centerme)
+        
+        ***
+        
+        > And press **Install** button to start the installation process
+        ![Python](../../img/python_install_19.png?style=centerme)
+        
+        **
+        
+        > Type your password to install the software
+        ![Python](../../img/python_install_20.png?style=centerme)
+        
+        ***
+        
+        > Wait until the installation process is completed
+        ![Python](../../img/python_install_21.png?style=centerme)
+        
+        ***
+        
+        > Once the installation process is completed, press **Clsoe** button to finish Python installation
+        ![Python](../../img/python_install_22.png?style=centerme)
+        
+        ***
+        
+        > You can move the installer package to Trash if you want by pressing **Move to Trash** button
+        ![Python](../../img/python_install_23.png?style=centerme)
+        
+        ***
+        
+        !!! tip
+        To check if you have installed Python properly you can follow next steps:
+        
+        > Launch **Terminal** application
+        ![Python](../../img/python_install_24.png?style=centerme)
+        
+        ***
+        
+        > In the Terminal Window, type **python** and press **Enter** button
+        ![Python](../../img/python_install_25.png?style=centerme)
+        
+        ***
+        
+        > If your Python is properly installed you will be able to see that your Python version is 2.7.16. After confirm it, you can close Terminal Window
+        ![Python](../../img/python_install_26.png?style=centerme)
+        
 
 
-??? example "MacOS"
-    ** Work in Progress**

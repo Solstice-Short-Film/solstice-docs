@@ -4,7 +4,7 @@
     This process at this moment needs to be done manually. In future versions a uninstaller app will be deployed with 
     Solstice Launcher
 
-???+ example "Windows"
+???- example "Windows"
 
     ###Latest version of Solstice Tools (V5 or newer)
     
@@ -24,5 +24,5 @@
     1. Go to **C:\Users\{YOUR_USER}\Documents\maya\2017** and remove solstice_tools folder
     2. Go to **C:\Users\{YOUR_USER}\Documents\maya\2017\modules** and remove **solstice.mod** file
     
-??? example "MacOS"
+???- example "MacOS"
     **Work in Progress**

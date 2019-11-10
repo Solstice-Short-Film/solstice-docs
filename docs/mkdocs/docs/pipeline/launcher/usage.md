@@ -1,13 +1,13 @@
 ### **How to use**
 
-???+ example "Windows"
+???- example "Windows"
     * Double-click on **solstice_launcher.exe** to launch **Solstice Launcher**
     
     > Solstice Launcher
     ![Solstice Launcher 0](../../img/solstice_launcher_0.png?style=centerme)
 
 
-??? example "MacOS"
+???- example "MacOS"
     ** Work in Progress**
     
 ***

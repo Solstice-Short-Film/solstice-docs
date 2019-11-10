@@ -1,4 +1,4 @@
-???+ example "Windows"
+???- example "Windows"
 
     !!! error
         If you experience problems during Solstice Pipeline installation please uninstall them manually first
@@ -69,7 +69,7 @@
             
         
         
-???+ example "MacOS"
+???- example "MacOS"
     
     !!! error "IMPORTANT"
         **If you have already installed Solstice Tools previously**, you need to **DELETE** **modules** and 

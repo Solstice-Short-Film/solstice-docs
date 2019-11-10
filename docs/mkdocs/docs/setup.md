@@ -4,18 +4,18 @@ In this section you can find a step-by-step guide to install all the necessary s
 
 
 
-#### 1. Download and Install Python
+#### 1. [Download and Install Python](./pipeline/software/installingpython.md)
 
 {!./pipeline/software/installingpython.md!}
 
 ***
 
-#### 2. Download and Install Artella App
+#### 2. [Download and Install Artella App](./pipeline/artella/installing.md)
 
 {!./pipeline/artella/installing.md!}
 
 ***
 
-#### 3. Install and Launch {{ project.name }} Launcher
+#### 3. [Install and Launch {{ project.name }} Launcher](./pipeline/launcher/installation.md)
 
 {!./pipeline/launcher/installation.md!}

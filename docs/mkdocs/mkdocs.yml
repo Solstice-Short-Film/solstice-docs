@@ -23,7 +23,7 @@ nav:
                 - Python: pipeline/software/installingpython.md
                 - Maya: pipeline/software/installingmaya.md
                 - Arnold: pipeline/software/installingarnold.md
-                - Yeti: pipeline/software/installingyeti.md
+#                - Yeti: pipeline/software/installingyeti.md
         - Tools:
             - Welcome: pipeline/tools/welcome.md
             - Tray: pipeline/tools/tray.md

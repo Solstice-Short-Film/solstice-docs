@@ -3,7 +3,7 @@ solstice
 
 .. toctree::
 
-    solstice.core
+    solstice
 
 
 Module contents

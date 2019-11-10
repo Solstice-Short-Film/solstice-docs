@@ -7,9 +7,9 @@ script:
   - mv docs/mkdocs/site .
   - mkdir solstice_repos
   - cd solstice_repos
-  - git clone https://github.com/Solstice-Short-Film/solstice-core.git
+  - git clone https://github.com/Solstice-Short-Film/solstice.git
   - cd ..
-  - sphinx-apidoc -f -e -o docs/sphinx solstice_repos/solstice-core/solstice --tocfile solstice-core-modules
+  - sphinx-apidoc -f -e -o docs/sphinx solstice_repos/solstice/solstice --tocfile solstice-modules
   - sphinx-build -M html ./docs/sphinx ./
   - cd html && touch .nojekyll && cd ../
   - cd site && touch .nojekyll && cd ../

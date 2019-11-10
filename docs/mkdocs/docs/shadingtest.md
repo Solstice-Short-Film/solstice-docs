@@ -1,10 +1,10 @@
 
 ### **Instructions**
 
-To join the shading team in Solstice Short Film you need to pass a shading test. Follow the next steps to complete the test:
+To join the shading team in {{ project.name }} Short Film you need to pass a shading test. Follow the next steps to complete the test:
 
 * Download the asset you have to do shading for: [Lamp](/files/test_shading.zip)
-* You have some references that we already made for Solstice Short film
+* You have some references that we already made for {{ project.name }} Short film
 * After doing the test, send it to <emilioenigma@gmail.com> and <didacruiz.j@gmail.com>
 ___
 

@@ -1,20 +1,20 @@
 # **Publishing a new version for textures files**
 
-1. Open **Maya 2017** using **Solstice Launcher**
+1. Open **Maya 2017** using **{{ project.name }} Launcher**
 
-    ![Solstice Launcher](../../../img/shading_publish_0.png?style=centerme)
-
-    ***
-
-2. Launch **Solstice Pipelinizer** tool
-
-    > Solstice Pipelinizer Button in Solstice Shelf
-    ![Solstice Pipelinizer](../../../img/shading_publish_1.png?style=centerme)
+    ![{{ project.name }} Launcher](../../../img/shading_publish_0.png?style=centerme)
 
     ***
 
-3. Open Solstice Publisher by pressing **>PUBLISH NEW VERSION<** button located in the bottom right corner of 
-**Solstice Pipelinizer**
+2. Launch **{{ project.name }} Pipelinizer** tool
+
+    > {{ project.name }} Pipelinizer Button in {{ project.name }} Shelf
+    ![{{ project.name }} Pipelinizer](../../../img/shading_publish_1.png?style=centerme)
+
+    ***
+
+3. Open {{ project.name }} Publisher by pressing **>PUBLISH NEW VERSION<** button located in the bottom right corner of 
+**{{ project.name }} Pipelinizer**
 
     > Solstice Pipelinizer Button in Solstice Shelf
     ![Solstice Pipelinizer](../../../img/shading_publish_7.png?style=centerme)

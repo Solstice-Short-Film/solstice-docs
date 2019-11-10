@@ -1,5 +1,5 @@
-# Solstice - Pipeline Documentation
+# {{ project.name }} - Pipeline Documentation
 
-![Solstice Documentation](img/documentation.jpg?style=centerme)
+![{{ project.name }} Documentation](img/documentation.jpg?style=centerme)
 
-In this webpage you can find all info related with Solstice Pipeline Tools & Workflows :smile:
+In this webpage you can find all info related with {{ project.name }} Pipeline Tools & Workflows :smile:

@@ -1,4 +1,4 @@
-![Solstice Documentation](img/info_nda.png?style=centerme)
+![{{ project.name }} Documentation](img/info_nda.png?style=centerme)
 
 ***
 
@@ -10,11 +10,11 @@ If you are new in the project, please follow the next steps:
     * **Full name**
     * **City and country**
     * **Birth date**
-    * **Position in Solstice**
+    * **Position in {{ project.name }}**
     * **Email**
     * **Telephone number**
 
-2. Download the [NDA](/files/confidentiality_agreement_solstice.doc)***** and sign it if you are agree.
+2. Download the [NDA](/files/confidentiality_agreement.doc)***** and sign it if you are agree.
 3. Send your information and the signed NDA to <solsticio.produccion@gmail.com> with copy <emilioenigma@gmail.com>
 4. If you are applying to shading click HERE
 

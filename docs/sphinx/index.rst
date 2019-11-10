@@ -6,7 +6,7 @@ Welcome to solstice documentation!
    :caption: Contents:
 
    solstice-modules
-   User Documentation <https://solstice-short-film.github.io/solstice-docs/site>
+   Solstice Pipeline <https://solstice-short-film.github.io/solstice-docs/pipeline>
 
 Indices and tables
 ==================

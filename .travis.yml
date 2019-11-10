@@ -13,7 +13,8 @@ script:
   - sphinx-build -M html ./docs/sphinx ./
   - cd html && touch .nojekyll && cd ../
   - cd site && touch .nojekyll && cd ../
-  - mv site html
+  - mv site pipeline
+  - mv pipeline html
 deploy:
   - provider: pages
     skip_cleanup: true
